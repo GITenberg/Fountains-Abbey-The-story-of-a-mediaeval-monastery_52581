@@ -1,0 +1,25 @@
+_repo: Fountains-Abbey-The-story-of-a-mediaeval-monastery_52581
+_version: 0.0.1
+alternative_title: 'Fountains Abbey: The story of a mediaeval monastery'
+creator:
+  author:
+    agent_name: Hodges, George
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '33306'
+    url: http://www.gutenberg.org/2009/agents/33306
+description: ''
+gutenberg_issued: '2016-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52581'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Fountains Abbey (North Yorkshire, England)'
+- GITenberg
+title: 'Fountains Abbey: The story of a mediæval monastery'
+url: http://www.gutenberg.org/ebooks/52581
